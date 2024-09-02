@@ -1,2 +1,5 @@
 # Challenges 
-This repository will contain challenges I solved. The point of doing this is to show that, in programming, the aim should be to learn the logic, and how to interpret the problem, not necessarily a language itself.
+In this repository, I will show the challenges I've made during my growth as a developer.
+The goal is to become better at solving puzzles, and refining the way that I think.
+
+I believe that sharpening the way we solve a problem is the key to becoming a good developer.
